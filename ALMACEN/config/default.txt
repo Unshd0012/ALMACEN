@@ -1,0 +1,9 @@
+#archivo para conexion predeterminada
+#archivo = ruta donde se aloja el archivo access
+#
+#
+#Sun Jan 31 17:18:17 MST 2021
+tipoconexion=0
+archivo=C\:\\Users\\ogchi01356\\Documents\\Dia\\PROYECT\\ALMACEN\\db\\BaseAccessAlmacen.accdb
+
+
